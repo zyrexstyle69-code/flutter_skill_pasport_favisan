@@ -1,0 +1,27 @@
+name: flutter_appl_latihan
+description: "A new Flutter project."
+publish_to: 'none'
+version: 0.1.0+1
+
+environment:
+  sdk: ^3.12.0
+
+dependencies:
+  flutter:
+    sdk: flutter
+  go_router: ^17.3.0
+  google_fonts: ^8.2.0
+  http: ^1.6.0
+  shared_preferences: ^2.5.5
+  image_picker: ^1.1.2
+  flutter_map: ^8.3.2
+  latlong2: ^0.10.1
+  url_launcher: ^6.3.2
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+  flutter_lints: ^6.0.0
+
+flutter:
+  uses-material-design: true
